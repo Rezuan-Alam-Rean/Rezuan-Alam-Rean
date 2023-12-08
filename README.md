@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a >
 <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 </a>
 <h1 align="center">Hi 👋, I'm Rezuan Alam Rean</h1>
