@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Rezuan Alam Rean</h1>
 <h3 align="center">I am a Mean Stack developer, excited to learn, build, and contribute to the open-source community! i am a student of Computer Science and Engineering , building the future with code and innovation. ️</h3>
-- 📫 How to reach me **rezuanrean.cse@gmail.com**
+
 
 ## :eyes: Current overview
 
@@ -23,6 +23,7 @@
 - ## :mailbox: Reach me out
 
 <br />
+- 📫 How to reach me **rezuanrean.cse@gmail.com**
 
 <p align="left">
 <a href="https://fb.com/rean.bhuiyan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rean.bhuiyan.94" height="30" width="40" /></a>
