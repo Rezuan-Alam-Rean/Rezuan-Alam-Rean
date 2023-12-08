@@ -15,15 +15,16 @@
 
 - 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
 
-### 👯 I’m looking - To collaborate on open source projects. 
+- 🌱 I’m looking - To collaborate on open source projects. 
 
 
 <br />
 
 - ## :mailbox: Reach me out
+- - 📫 **rezuanrean.cse@gmail.com**
 
 <br />
-- 📫 How to reach me **rezuanrean.cse@gmail.com**
+
 
 <p align="left">
 <a href="https://fb.com/rean.bhuiyan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rean.bhuiyan.94" height="30" width="40" /></a>
