@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+</a>
 <h1 align="center">Hi 👋, I'm Rezuan Alam Rean</h1>
 <h3 align="center">I am a Mean Stack developer, excited to learn, build, and contribute to the open-source community! i am a student of Computer Science and Engineering , building the future with code and innovation. ️</h3>
 
