@@ -53,5 +53,5 @@
 <br/>
 
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rezuan-Alam-Rean&theme=github-dark-dimmed)](https://git.io/streak-stats)
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
 <br />
