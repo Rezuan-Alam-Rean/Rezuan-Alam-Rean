@@ -32,6 +32,7 @@
 </div>
 
 - 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
+- 🌱 I’m good at  **React, Html ,CSS , Tailwind CSS**
 
 - 🌱 I’m looking - To collaborate on open source projects. 
 
