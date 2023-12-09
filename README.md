@@ -69,9 +69,6 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=default" alt="rezuan-alam-rean" /></p>
-
-
-
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
 <br />
+
