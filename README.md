@@ -25,7 +25,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href=""><img align="right" src="" width="200" alt=""/></a>
+<a href=""><img align="right" src="https://i.ibb.co/48s6p4c/rean-a-guy-solving-Rubiks-cube-Infront-of-his-laptop-in-a-hood-2.jpg" width="200" alt=""/></a>
 </div>
 
 - 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
