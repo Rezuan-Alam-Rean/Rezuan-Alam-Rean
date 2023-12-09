@@ -70,6 +70,9 @@
 
 <br />
 
+<p>
 
 <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" />
+
+</p>
 <br />
