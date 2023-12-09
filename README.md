@@ -2,20 +2,6 @@
 <h3 align="center">I am a Mean Stack developer, excited to learn, build, and contribute to the open-source community! i am a student of Computer Science and Engineering , building the future with code and innovation. ️</h3>
 <br />
 
-## :eyes: Current overview
-
-<div align="left">
-<a href=""><img align="right" src="" width="200" alt=""/></a>
-</div>
-
-- 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
-
-- 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
-
-- 🌱 I’m looking - To collaborate on open source projects. 
-
-
-<br />
 
 
 ## :computer: Technologies that I know
@@ -33,6 +19,23 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 <br/>
+
+<br />
+
+## :eyes: Current overview
+
+<div align="left">
+<a href=""><img align="right" src="" width="200" alt=""/></a>
+</div>
+
+- 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
+
+- 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
+
+- 🌱 I’m looking - To collaborate on open source projects. 
+
+
+<br />
 
 - ## :mailbox: Reach me out
 - 📫 **rezuanrean.cse@gmail.com**
