@@ -69,8 +69,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-![Rezuan Alam Rean's Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezuan-Alam-Rean&theme=default) width="500" height="250"
 
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
+<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" />
 <br />
