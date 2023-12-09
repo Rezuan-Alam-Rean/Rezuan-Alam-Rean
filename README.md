@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rezuan Alam Rean</h1>
-<h3 align="center">I am a Mean Stack developer, excited to learn, build, and contribute to the open-source community! i am a student of Computer Science and Engineering , building the future with code and innovation. ️</h3>
+
+
+<h1 align="center">👋 Hey there! I'm Rezuan Alam Rean</h1>
+<h4 align="center">I'm a passionate MERN stack developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. ️</h4>
 <br />
 
 
@@ -20,6 +22,11 @@
 </p>
 
  💬 Ask me about **React, Html ,CSS , Tailwind CSS**
+- React: Building user interfaces with reusable components and state management.
+- JavaScript: Scripting and manipulating dynamic web pages.
+- Node.js: Building scalable and efficient server-side applications.
+- MongoDB: Storing and managing data efficiently.
+- HTML and CSS: Building web pages with proper structure and style.
 
 <br/>
 
@@ -32,9 +39,10 @@
 </div>
 
 - 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
-- 🌱 I’m good at  **React, Html ,CSS , Tailwind CSS**
 
-- 🌱 I’m looking - To collaborate on open source projects. 
+- 🌱Learning Next.js: Expanding my full-stack development skills with server-side         rendering and static site generation.
+- 🌱   Dedicated to continuous learning: I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
+   - 🌱Enthusiastic and collaborative: I enjoy working with others and learning from their experiences.
 
 
 <br />
@@ -52,7 +60,7 @@
 
 ## About Me
 
-👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. As a MEAN Stack developer, I thrive on building dynamic web applications using React, JavaScript, HTML, Node.js, and Tailwind CSS. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 🌟
+👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. As a MERN Stack developer, I thrive on building dynamic web applications using React, JavaScript, HTML, Node.js, and Tailwind CSS. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 🌟
 
 
 <br />
@@ -62,5 +70,9 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=highcontrast" alt="rezuan-alam-rean" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezuan-alam-rean&show_icons=true&hide_border=true&locale=en" alt="rezuan-alam-rean" /></p>
+
 <br />
