@@ -46,6 +46,14 @@
 </p>
 
 <br />
+<br />
+
+## About Me
+
+👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. As a MEAN Stack developer, I thrive on building dynamic web applications using React, JavaScript, HTML, Node.js, and Tailwind CSS. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 🌟
+
+
+<br />
 
 
 
