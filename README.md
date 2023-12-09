@@ -3,9 +3,7 @@
 
 <h1 align="center">👋 Hey there! I'm Rezuan Alam Rean</h1>
 <h4 align="center">I'm a passionate MERN stack developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. ️</h4>
-<br />
-
-
+<br/>
 
 ## :computer: Technologies that I know
 
@@ -35,7 +33,7 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
 
 
 
@@ -61,7 +59,7 @@
 
 ## About Me
 
-👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. As a MERN Stack developer, I thrive on building dynamic web applications using React, JavaScript, HTML, Node.js, and Tailwind CSS. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 🌟
+👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate MERN stack developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
 
 
 <br />
@@ -74,6 +72,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=highcontrast" alt="rezuan-alam-rean" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezuan-alam-rean&show_icons=true&hide_border=true&locale=en" alt="rezuan-alam-rean" /></p>
+
 
 <br />
