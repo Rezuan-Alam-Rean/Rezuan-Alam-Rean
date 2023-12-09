@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Rezuan Alam Rean</h1>
 <h3 align="center">I am a Mean Stack developer, excited to learn, build, and contribute to the open-source community! i am a student of Computer Science and Engineering , building the future with code and innovation. ️</h3>
-
-
 ## :eyes: Current overview
 
 <div align="left">
