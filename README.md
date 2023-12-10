@@ -50,6 +50,7 @@
 📫 **rezuanrean.cse@gmail.com**
 
 <p align="left">
+  <a href="https://linkedin.com/in/rezuan-alam-rean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezuan-alam-rean" height="30" width="40" /></a>
 <a href="https://fb.com/rean.bhuiyan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rean.bhuiyan.94" height="30" width="40" /></a>
 <a href="https://instagram.com/bhuiyanrean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhuiyanrean" height="30" width="40" /></a>
 </p>
@@ -68,11 +69,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<br />
 
-<p>
 
-<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=default" alt="rezuan-alam-rean" />
 
-</p>
-<br />
