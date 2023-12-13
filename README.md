@@ -57,21 +57,40 @@
 
 
 
- 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
-- React: Building user interfaces with reusable components and state management.
-- JavaScript: Scripting and manipulating dynamic web pages.
-- Node.js: Building scalable and efficient server-side applications.
-- MongoDB: Storing and managing data efficiently.
-- HTML and CSS: Building web pages with proper structure and style.
 
 <br/>
 
 <br />
 
+## :mortar_board: Education Qualifications
+
+<div style="display:flex;flex-direction:row;align-items:center;">
+    <img align="right" alt="Programmer" width="100" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
+    <div>
+        <h3>Bachelor of Science in Computer science and engineering</h3>
+        <p>City University, Bangladesh</p>
+        <p>2022 - Running</p>
+    </div>
+</div>
+
+---
+
+<div style="display:flex;flex-direction:row;align-items:center;">
+    <img align="right" alt="Science Penguin" width="100" src="https://media.tenor.com/Q6DFaCAVumYAAAAi/science-penguin.gif">
+    <div>
+        <h3>Higher Secondary Certificate in Science</h3>
+        <p>Narsingdi Public College</p>
+        <p>2019 - 2021</p>
+    </div>
+</div>
+
+
+
 ## :eyes: Current overview
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
 
+ 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
 
 
 - 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
