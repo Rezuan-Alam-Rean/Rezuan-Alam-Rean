@@ -1,7 +1,7 @@
 <a href="">
 <img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
 
-<h1 align="center">👋 Hey there! I'm Rezuan Alam Rean</h1>
+<h1 align="center">👋 Hey ! I'm Rezuan Alam Rean</h1>
 <h4 align="center"> I am a Front-End Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
 <br/>
 
