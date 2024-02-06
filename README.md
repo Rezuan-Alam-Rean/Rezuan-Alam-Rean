@@ -122,6 +122,20 @@
 
 <br />
 
+<h3 align="left">GitHub Status:</h3>
+
+<div  align="center" width="100vw">
+  
+<div>
+
+<img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=react" alt="rezuan-alam-rean" />
+
+</div>
+
+
+</div>
+
+
 
 
 ## :chart_with_upwards_trend: Current Stats
