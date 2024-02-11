@@ -5,55 +5,38 @@
 <h4 align="center"> I am a Front-End Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
 <br/>
 
-## :computer: Technologies that I know
+
+
+### 🚀 Skills
+
+
+
+**Frontend**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,next,tailwind,html,css" height="45"/>
+</a>
+
+**Backend**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45"/>
+</a>
+
+**Languages**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/>
+</a>
+
+**Tools**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,firebase,figma" height="45"/>
+</a>
 
 <br>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
 
-
-
-
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    &nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
 
 
 
@@ -142,4 +125,25 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
+<details> 
+   
 
+
+
+```txt
+
+
+                            █████████████████████▓░░░   86.16 %
+                            ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+                            ██░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+                             ██░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
+</picture>
