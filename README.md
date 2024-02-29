@@ -73,13 +73,11 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
 
- 💬 Ask me about **React, Html ,CSS , Tailwind CSS**
+ 💬 Ask me about **React, Html ,CSS , Tailwind**
 
 
-- 🌱 I’m currently learning **Next.js, Java-Script, MongoDB,Node.js & Express**
-
-- 🌱Learning Next.js: Expanding my full-stack development skills with server-side         rendering and static site generation.
-- 🌱   Dedicated to continuous learning: I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
+- 🌱 I’m currently learning **Next.js, django , MySQL, Java-Script,Redux, MongoDB,Node.js & Express**
+- 🌱 Dedicated to continuous learning: I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
 - 🌱Enthusiastic and collaborative: I enjoy working with others and learning from their experiences.
 
 
