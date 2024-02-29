@@ -1,5 +1,10 @@
-<a href="">
+
 <img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean;On+My+Way+To+Become+a+Web+Developer;a+Computer+Science+Student;Highly+Curious+Person;Low+Energetic+But+Highly+Ambitious;Love+to+Spend+Time+with+Myself;"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align="center">👋 Hey ! I'm Rezuan Alam Rean</h1>
 <h4 align="center"> I am a MERN Stack Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
@@ -71,14 +76,21 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
 
- 💬 Ask me about **React, Html ,CSS , Tailwind**
+<div style="display:flex;flex-direction:row;align-items:center;">
+    
+<img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
+    <div>
+      💬 Ask me about **React, Html ,CSS , Tailwind**
 
 
 - 🌱 I’m currently learning **Next.js, django , MySQL, Java-Script,Redux, MongoDB,Node.js & Express**
 - 🌱 Dedicated to continuous learning: I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
 - 🌱Enthusiastic and collaborative: I enjoy working with others and learning from their experiences.
+
+    </div>
+</div>
+
 
 
 <br />
@@ -102,27 +114,28 @@
 
 
 <br />
+:chart_with_upwards_trend:Current Stats
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
+  <p float="left">
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical&border=7F3FBF&background=0D1117" alt="rezuan-alam-rean's stats" /></p>
 
-<h3 align="left">GitHub Status:</h3>
+ <h3 align="left">GitHub Status:</h3>
 
-<div  align="center" width="100vw">
-  
-<div>
+<p align="center">
+  <a href="https://github.com/Rezuan-Alam-Rean">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=radical" alt="rezuan-alam-rean's GitHub Contribution"/>
+  </a>
+</p>
 
-<img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=react" alt="rezuan-alam-rean" />
+
+
+
 
 </div>
 
 
-</div>
 
-
-
-
-## :chart_with_upwards_trend: Current Stats
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&" alt="rezuan-alam-rean" /></p>
 <details> 
    
 
@@ -134,7 +147,7 @@
                             █████████████████████▓░░░   86.16 %
                             ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
                             ██░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-                             ██░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+                            ██░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 
