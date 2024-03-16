@@ -1,4 +1,5 @@
 
+
 <img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
 
 <p align="center">
@@ -115,20 +116,20 @@
 
 <br />
 :chart_with_upwards_trend:Current Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
+<div align="" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
   <p float="left">
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical&border=7F3FBF&background=0D1117" alt="rezuan-alam-rean's stats" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical&border=7F3FBF&background=0D1117" alt="rezuan-alam-rean's stats" /></p>
 
  <h3 align="left">GitHub Status:</h3>
 
-<p align="center">
+<p align="">
   <a href="https://github.com/Rezuan-Alam-Rean">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=radical" alt="Rezuan-alam-rean's GitHub Contribution"/>
   </a>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezuan-alam-rean&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
