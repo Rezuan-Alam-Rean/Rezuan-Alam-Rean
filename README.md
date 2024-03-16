@@ -101,7 +101,7 @@
 
 <a href="https://www.linkedin.com/in/rezuan-alam-rean/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
 <a href="https://www.facebook.com/rean.bhuiyan.94"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
-<a href="https://discord.com/users/rezuanalamrean"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
+<a href="https://discord.com/rezuanalamrean"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
 <a href="https://twitter.com/rezuanalamrean" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezuanalamrean" height="30" width="40" /></a> 
 
 ### 📧 **rezuanrean.cse@gmail.com**
