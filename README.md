@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align="center">👋 Hey ! I'm Rezuan Alam Rean</h1>
-<h4 align="center"> I am a MERN Stack Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
+<h4 align="center"> I'm Rezuan Alam Rean a MERN Stack Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
 <br/>
 
 
@@ -111,7 +111,7 @@
 
 ## About Me
 
-👋 I'm a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate Front-End Developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
+👋I'm Rezuan Alam Rean, a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate Front-End Developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
 
 
 <br />
