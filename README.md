@@ -119,7 +119,7 @@
 <div align="" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
   <p float="left">
  
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical&border=7F3FBF&background=0D1117" alt="rezuan-alam-rean's stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical" alt="rean" /></p>
 
  <h3 align="left">GitHub Status:</h3>
 
