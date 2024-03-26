@@ -86,8 +86,8 @@
 
 
 - 🌱 I’m currently learning **Next.js, django , MySQL, Java-Script,Redux, MongoDB,Node.js & Express**
-- 🌱 Dedicated to continuous learning: I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
-- 🌱Enthusiastic and collaborative: I enjoy working with others and learning from their experiences.
+- 🌱 I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
+- 🌱 I enjoy working with others and learning from their experiences.
 
     </div>
 </div>
