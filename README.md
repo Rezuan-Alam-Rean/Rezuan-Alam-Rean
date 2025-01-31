@@ -7,7 +7,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center">👋 Hey ! I'm Rezuan Alam Rean</h1>
+<h1 align="center">👋 Hello! I'm Rezuan Alam Rean</h1>
 <h4 align="center"> I'm Rezuan Alam Rean a MERN Developer with a solid foundation in React, JavaScript, html & CSS and familiar with Node.js, Nextjs, Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
 <br/>
 
