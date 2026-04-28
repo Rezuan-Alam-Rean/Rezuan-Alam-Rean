@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean..;I+Am+a+MERN+Stack+Developer..;I+Am+Also+a+student+of+Computer+Science+and+Engineering..;+My+Aim+is+to+be+a+full-Stack+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean..;I+Am+a+MERN+Stack+Developer..;I+Am+Also+a+student+of+Computer+Science+and+Engineering..;"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
