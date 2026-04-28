@@ -111,7 +111,7 @@
 
 ## About Me
 
-👋I'm Rezuan Alam Rean, a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate Front-End Developer with a solid foundation in React, JavaScript, Node.js, MongoDB, HTML, and CSS. I'm currently expanding my knowledge by learning Next.js to become a well-rounded full-stack developer. I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
+👋I'm Rezuan Alam Rean, a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate Front-End and Mobile app Developer with a solid foundation in React, JavaScript,react native, expo, Nextjs, html & CSS and familiar with Node.js, Express and MongoDB.  I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
 
 
 <br />
@@ -130,9 +130,6 @@
 
 
 
-
-
-</div>
 
 
 
