@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align="center">👋 Hello! I'm Rezuan Alam Rean</h1>
-<h4 align="center"> I'm Rezuan Alam Rean a MERN Developer with a solid foundation in React, JavaScript,react native, expo, Nextjs, html & CSS and familiar with Node.js,  Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding. My Aim is to be a full-Stack Developer. ️</h4>
+<h4 align="center"> I'm Rezuan Alam Rean a Front-End and Mobile app Developer with a solid foundation in React, JavaScript,react native, expo, Nextjs, html & CSS and familiar with Node.js,  Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding.  ️</h4>
 <br/>
 
 
@@ -115,21 +115,20 @@
 
 
 <br />
-:chart_with_upwards_trend:Current Stats
-<div align="" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
-  <p float="left">
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-alam-rean&theme=radical" alt="rean" /></p>
 
- <h3 align="left">GitHub Status:</h3>
+## 📊 GitHub Stats
 
-<p align="">
-  <a href="https://github.com/Rezuan-Alam-Rean">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=radical" alt="Rezuan-alam-rean's GitHub Contribution"/>
-  </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rezuan-alam-rean&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezuan-alam-rean&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezuan-alam-rean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rezuan-alam-rean&theme=dark" />
+</p>
+
+
+
 
 
 
