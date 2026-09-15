@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
+<img src="[https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg](https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/cover-for-github.png?raw=true)" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean..;I+Am+a+Frontend+Developer+and+SQA+Engineer..;I+Am+Also+a+student+of+Computer+Science+and+Engineering..;"></a>
