@@ -90,10 +90,7 @@ Build. Test. Improve. 🚀 ️</h4>
     
 <img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/programmer.gif">
     <div>
-      💬 Ask me about **React, Html ,CSS , Tailwind**
-
-
-- 🌱 I’m currently learning **Next.js, django , MySQL, Java-Script,Redux, MongoDB,Node.js & Express**
+     
 - 🌱 I'm always looking for ways to improve my skills  and stay up-to-date with the latest technologies.
 - 🌱 I enjoy working with others and learning from their experiences.
 
@@ -116,10 +113,6 @@ Build. Test. Improve. 🚀 ️</h4>
 
 
 <br />
-
-## About Me
-
-👋I'm Rezuan Alam Rean, a Computer Science and Engineering student with a passion for coding and innovation. I'm a passionate Front-End and Mobile app Developer with a solid foundation in React, JavaScript,react native, expo, Nextjs, html & CSS and familiar with Node.js, Express and MongoDB.  I'm excited about learning new technologies and contributing to open-source projects. Let's connect and collaborate on building the future with code! 
 
 
 <br />
