@@ -3,12 +3,20 @@
 <img src="https://raw.githubusercontent.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/main/images/Rean%20Cover%20Github.jpg" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean..;I+Am+a+MERN+Stack+Developer..;I+Am+Also+a+student+of+Computer+Science+and+Engineering..;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My+Github+Profile..&hearts;++;Hey+I+am+Rezuan+Alam+Rean..;I+Am+a+Frontend+Developer+and+SQA+Engineer..;I+Am+Also+a+student+of+Computer+Science+and+Engineering..;"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align="center">👋 Hello! I'm Rezuan Alam Rean</h1>
-<h4 align="center"> I'm Rezuan Alam Rean a Front-End and Mobile app Developer with a solid foundation in React, JavaScript,react native, expo, Nextjs, html & CSS and familiar with Node.js,  Express and MongoDB. I'm also a student of Computer Science and Engineering with a passion for coding.  ️</h4>
+<h4 align="center"> I’m a Frontend Developer and SQA Engineer focused on building reliable, responsive, and user-friendly digital products.
+
+I specialize in React.js, Next.js, TypeScript, JavaScript, and React Native, developing modern web applications and cross-platform mobile apps for iOS and Android.
+
+On the QA side, I work with manual testing, automation testing, API testing, performance testing, and end-to-end testing, using tools such as Postman, Selenium, Playwright, JMeter, and Jira. I also have a strong understanding of SDLC, Agile/Scrum, QA best practices, Git, and CI/CD workflows.
+
+I believe quality software comes from combining clean development with effective testing and continuous improvement.
+
+Build. Test. Improve. 🚀 ️</h4>
 <br/>
 
 
